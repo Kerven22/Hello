@@ -4,7 +4,7 @@ namespace hello
 {
 	public class Program
 	{
-		public static Main()
+		public static void Main()
 		{
 			Console.WriteLine("Hello World!"); 
 		}
